@@ -43,4 +43,4 @@ developer.sayHi();
 
 ### 📬 Connect
 
-[Email](mailto:your.email@example.com) • [LinkedIn](https://www.linkedin.com/in/mahesh-v-3908b4309)
+[Email](mailto:mahesh.vijaykumar.dp@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mahesh-v-3908b4309)
